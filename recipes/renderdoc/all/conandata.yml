@@ -1,0 +1,4 @@
+sources:
+  "1.9":
+    url: "https://github.com/baldurk/renderdoc/archive/v1.9.tar.gz"
+    sha256: 945ac39f14273be742c8a060af100182e38920f641e5d8fa16699e74a09e9850
